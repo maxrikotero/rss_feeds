@@ -1,0 +1,11 @@
+.subscribe__article {
+  margin-right: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.subscribe__button {
+  margin-top: 10px;
+}
